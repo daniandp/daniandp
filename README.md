@@ -25,7 +25,7 @@
 
 ##  📊 Estadísticas
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniandp&show_icons=true&theme=dark&locale=en&layout=compact" alt="daniandp" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniandp&show_icons=true&theme=dark&locale=en&layout=compact" alt="daniandp" /</p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=daniandp&show_icons=true&theme=dark&locale=en" alt="daniandp" /></p>
