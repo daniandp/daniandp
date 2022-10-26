@@ -11,7 +11,7 @@
 
 - 🔭 Actualmente estoy en búsqueda de oportunidades laborales
 
-- 🌱 Estoy aprendiendo Angular y Vue, una vez que los domine, iré por otras herramientas💪🏻
+- 🌱 Estoy aprendiendo Angular y Vue
 
 - 💜Me apasiona desarrollar proyectos que aporten valor a los usuarios
 
