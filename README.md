@@ -13,9 +13,11 @@
 
 - 🌱 Estoy aprendiendo Angular y Vue
 
+- 💼 Puedes ver mis proyectos en [https://github.com/daniandp?tab=repositories](https://github.com/daniandp?tab=repositories)
+
 - 💜Me apasiona desarrollar proyectos que aporten valor a los usuarios
 
-- 📫 Contáctame: andradegsp@gmail.com
+- 📫 Contáctame andradegsp@gmail.com
 
 
 ##  💻 Lenguajes y Herramientas
